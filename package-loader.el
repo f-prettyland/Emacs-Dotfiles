@@ -11,12 +11,14 @@
 
 (defvar required-packages
   '(
+    atom-one-dark-theme
     base16-theme
     cider
     clojure-mode
     company
     company-racer
     darkokai-theme
+    darktooth-theme
     ess
     evil
     evil-escape
