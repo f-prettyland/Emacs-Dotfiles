@@ -6,6 +6,6 @@
 (setq default-frame-alist '((font . "Source Code Pro 14")))
 (setq inhibit-startup-message t)
 (setq inhibit-startup-echo-area-message t)
-(setq initial-scratch-message "#+TITLE: \n#+AUTHOR: jac32")
+(setq initial-scratch-message "#+TITLE: \n#+AUTHOR: You")
 (global-hl-line-mode 1)
 (set-face-foreground 'highlight nil)
