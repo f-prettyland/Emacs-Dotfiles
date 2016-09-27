@@ -3,3 +3,8 @@
 
 # Packaging
 .cask
+
+elpa/*
+abbrev_defs
+projectile-bookmarks.eld
+*.swp
