@@ -133,7 +133,6 @@
 ;; Projectile
 ;; =============================================================================
 (projectile-global-mode 1)
-(add-to-list 'projectile-globally-ignored-directories "/Users/jac32/")
 
 ;; =============================================================================
 ;; Rainbow Delimiters
